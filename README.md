@@ -18,7 +18,9 @@ SO THAT my company can compete with other e-commerce companies<br>
 ### Installation
 1. Clone repository using 'git clone"
 2. Install necessary dependencies, run the following command: <br> 'npm install'
-3. To run application 'node server.js' in the command line
+3. Create Table using mysql2(login to my mysql, run 'SOURCE db/schema.sql')
+3. Seed Table('npm run seed')
+3. To run application 'npm run start' in the command line
 
 
 ---
