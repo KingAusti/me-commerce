@@ -33,7 +33,8 @@ This a project was built using <br>
 ---
 
 ### DEMO 
-
+![Walkthrough](./public/ecomm_walkthrough_1.gif)<br>
+[Full Video Walkthrough](https://drive.google.com/file/d/11guT-MjUUE8StT3hyvzolyTFL6MRNicT/view?usp=sharing)
 
 ---
 
