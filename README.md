@@ -6,6 +6,41 @@ AS A manager at an internet retail company<br>
 I WANT a back end for my e-commerce website that uses the latest technologies<br>
 SO THAT my company can compete with other e-commerce companies<br>
 
+---
+* [Installation](#installation)
+
+* [About](#about)
+
+* [Demo](#demo)
+
+* [Author](#author)
+---
+### Installation
+1. Clone repository using 'git clone"
+2. Install necessary dependencies, run the following command: <br> 'npm install'
+3. To run application 'node server.js' in the command line
+
+
+---
+### About
+This a project was built using <br>
+* Node.js
+* Inquirer
+* MySQL2
+* javaScript
+* dotenv
+
+---
+
+### DEMO 
+
+
+---
+
+## AUTHOR
+
+### [KingAusti](https://github.com/KingAusti)
+---
 ## Acceptance Criteria
 
 GIVEN a functional Express.js API<br>
